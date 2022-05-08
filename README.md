@@ -3,5 +3,5 @@
 ### the link to the website is https://www.invasivetracker.com/identify/
 ### the link to my presentation is https://youtu.be/_sj0auLbAp4
 ### the heart sounds training.ipynb file contains the code I used to train the model
-### the heart sounds classification.ipynb file contains the code I used to make classifications on a audio file
-### the science fair paper.pdf contains the paper I wrote on this project with more details on it
+### the heart sounds classification.ipynb file contains the code to classify an audio file
+### the science fair paper.pdf is the paper I wrote on this project
